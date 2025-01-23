@@ -41,7 +41,7 @@ The messages will be displayed in the chat area.
 
 ## Screenshots 📸
 
-![Thapar Chat Screenshot](https://i.imgur.com/xsHhzNR.gif)
+![Thapar Chat Screenshot](opt.png)
 
 ## Built With 🛠️
 
